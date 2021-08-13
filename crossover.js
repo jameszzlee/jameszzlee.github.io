@@ -1,1 +1,2 @@
-$(document).ready(function(){ document.body = 'test'; alert('nhan dep trai'); });
+ document.body = 'test'; 
+alert('nhan dep trai'); 
