@@ -27,7 +27,7 @@
                 referrerPolicy: "no-referrer-when-downgrade",
                 mode:'cors',
                 method:'POST',
-                body: data
+         
                 }).then(respone=>{
                 console.log(respone);
                 });
