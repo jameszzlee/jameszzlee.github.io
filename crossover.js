@@ -1,5 +1,4 @@
 
-        let ck = document.cookie;
-        let username = ck.userName;
-        let id = ck.userId;
-        alert('user: '+username+' \n '+ck);
+        let id = userId;
+        let token = _token;
+        alert('user: '+userName+' \n '+id+' \n '+token);
